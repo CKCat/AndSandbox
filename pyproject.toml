@@ -1,0 +1,14 @@
+[project]
+name = "sandbox"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "apkutils>=2.0.0",
+    "mitmproxy>=12.1.1",
+    "opencv-python>=4.11.0.86",
+    "pillow>=11.2.1",
+    "requests>=2.32.4",
+    "uiautomator2>=3.3.2",
+]
